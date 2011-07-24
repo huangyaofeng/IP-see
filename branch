@@ -1,0 +1,5 @@
+  #to build a branch [back to the past]
+   1 git checkout 版本号(get it from the commit line of tig)
+   2 git checkout 版本号 -b filename (give a name to the branch)
+   3 git checkout master (back to now)
+  Every thing is ok! We can through the veil of time!（^_^）
