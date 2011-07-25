@@ -10,8 +10,8 @@
   2 输入user passwd 
   3 退出输入exit
   4 copy对方机器上的文件(可不用登录对方服务器)
-  (1)  scp peter@192.168.1.21 :~/file   "复制file文件"
-  (2) scp -r peter@192.168.1.21:~/my-note “复制目录”
+  (1)  scp peter@192.168.1.21 :~/file .   "复制file文件"
+  (2) scp -r peter@192.168.1.21:~/my-note . “复制目录”
     
  #sudo passwd 修改密码
  #ctrl +x+f补全文件名
